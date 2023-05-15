@@ -781,8 +781,8 @@ button {
 }
 .check-input:checked + .check-icon {
   background-color: #4d5ae5;
-  /* background-size: contain;
-  background-origin: border-box; */
+  background-size: contain;
+  background-origin: border-box;
 }
 
 .send-btn {
